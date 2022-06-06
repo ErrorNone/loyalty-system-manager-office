@@ -1,0 +1,4 @@
+export const LOAD_CARDS = "LOAD_CARDS";
+export const LOAD_RECEIPT = "LOAD_RECEIPT";
+export const LOAD_TRANSACTION = "LOAD_TRANSACTION";
+
